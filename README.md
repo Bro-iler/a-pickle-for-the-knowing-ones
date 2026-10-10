@@ -1,4 +1,4 @@
-# Another Pickle for the Knowing Ones
+# A Pickle for the Knowing Ones
 
 Timothy Dexter was an 18th-century merchant from Massachusetts who wrote a book called A Pickle for the Knowing Ones (1802). He spelled words however he liked and used no punctuation at all. I built a Markov chain that learns from his book and writes new text in his style, then tested how much of what it writes is actually new.
 
